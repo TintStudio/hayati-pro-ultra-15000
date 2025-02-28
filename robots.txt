@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Allow: /
+Sitemap:https://hayati-pro-ultra-15000.vercel.app/sitemap.xml
